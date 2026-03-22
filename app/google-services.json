@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "332854197231",
+    "project_id": "ordo-b864c",
+    "storage_bucket": "ordo-b864c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332854197231:android:4554407c15af66b317d41a",
+        "android_client_info": {
+          "package_name": "parth.appdev.ordo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNfAf_gH6g6x5ea-SqKdOP7W77wEJgUW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
