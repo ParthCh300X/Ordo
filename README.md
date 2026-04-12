@@ -123,7 +123,7 @@ git clone https://github.com/ParthCh300x/Ordo.git
 
 **Parth Chaudhary**
 IoT Engineering · IIIT Nagpur
-[GitHub](https://github.com/ParthCh300x) · [LinkedIn](https://linkedin.com/in/your-link)
+[GitHub](https://github.com/ParthCh300x) · [LinkedIn](https://www.linkedin.com/in/parth-chaudhary-615124287/)
 
 ---
 
